@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/felipe-github-banner.png" width="100%" alt="Felipe Blanco - Build, Learn, Improve">
+
 
 # Felipe Blanco
 
